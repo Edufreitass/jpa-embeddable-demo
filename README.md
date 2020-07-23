@@ -1,6 +1,6 @@
-# JPA / Hibernate @Embeddable and @Embedded Example with Spring Boot
+# JPA / Hibernate @Embeddable e @Embedded exemplo com Spring Boot
 
-### Technologies
+### Tecnologias utilizadas:
 
 - Spring Boot
 - Lombok
